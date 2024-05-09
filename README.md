@@ -38,6 +38,3 @@ while True:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
 
-## RESULT
-Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
-was successfully created and executed.
